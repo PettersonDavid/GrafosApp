@@ -30,7 +30,7 @@ Aplicação desktop desenvolvida em C# (.NET 8.0) com Windows Forms para visuali
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/SEU_USUARIO/GrafosApp.git
+git clone https://github.com/PettersonDavid/GrafosApp.git
 cd GrafosApp
 ```
 
@@ -91,19 +91,14 @@ GrafosApp/
 
 A aplicação possui uma interface gráfica intuitiva com painel lateral expansível, visualização interativa do grafo com animações, área de saída formatada com resultados, tooltips explicativos, controles de zoom e destaques coloridos para diferentes algoritmos.
 
-## 📚 Documentação
-
-- [Relatório do Projeto](RELATORIO_CORRIGIDO.md)
 
 ## 👥 Autores
 
-Desenvolvido como projeto acadêmico para a disciplina de Algoritmos em Grafos.
+Desenvolvido por David Petterson e Arthur Gomes Valverde como projeto acadêmico para a disciplina de Algoritmos em Grafos. 
 
 ## 📄 Licença
 
 Este projeto foi desenvolvido como parte da disciplina de Algoritmos em Grafos da PUC Minas - Campus Contagem.
 
----
 
-**Projeto desenvolvido para a disciplina de Algoritmos em Grafos (AG) - PUC Minas - Campus Contagem**
 
