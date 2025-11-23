@@ -1,0 +1,15 @@
+C:\Users\David Oliveira\source\repos\GrafosApp\bin\Debug\net8.0-windows\GrafosApp.exe
+C:\Users\David Oliveira\source\repos\GrafosApp\bin\Debug\net8.0-windows\GrafosApp.deps.json
+C:\Users\David Oliveira\source\repos\GrafosApp\bin\Debug\net8.0-windows\GrafosApp.runtimeconfig.json
+C:\Users\David Oliveira\source\repos\GrafosApp\bin\Debug\net8.0-windows\GrafosApp.dll
+C:\Users\David Oliveira\source\repos\GrafosApp\bin\Debug\net8.0-windows\GrafosApp.pdb
+C:\Users\David Oliveira\source\repos\GrafosApp\obj\Debug\net8.0-windows\GrafosApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Oliveira\source\repos\GrafosApp\obj\Debug\net8.0-windows\GrafosApp.AssemblyInfoInputs.cache
+C:\Users\David Oliveira\source\repos\GrafosApp\obj\Debug\net8.0-windows\GrafosApp.AssemblyInfo.cs
+C:\Users\David Oliveira\source\repos\GrafosApp\obj\Debug\net8.0-windows\GrafosApp.csproj.CoreCompileInputs.cache
+C:\Users\David Oliveira\source\repos\GrafosApp\obj\Debug\net8.0-windows\GrafosApp.sourcelink.json
+C:\Users\David Oliveira\source\repos\GrafosApp\obj\Debug\net8.0-windows\GrafosApp.dll
+C:\Users\David Oliveira\source\repos\GrafosApp\obj\Debug\net8.0-windows\refint\GrafosApp.dll
+C:\Users\David Oliveira\source\repos\GrafosApp\obj\Debug\net8.0-windows\GrafosApp.pdb
+C:\Users\David Oliveira\source\repos\GrafosApp\obj\Debug\net8.0-windows\GrafosApp.genruntimeconfig.cache
+C:\Users\David Oliveira\source\repos\GrafosApp\obj\Debug\net8.0-windows\ref\GrafosApp.dll
